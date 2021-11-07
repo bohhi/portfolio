@@ -1,10 +1,56 @@
 body {
-    font-family: gilbert,sans-serif;
+    font-family: 'gilbert',sans-serif;
     font-style: normal;
 }
 .navigationBar{
     font-family:'Titillium Web', sans-serif;
+    font-size: 25px;
     font-style:normal;
     font-weight: 800;
+    color: #FFFFFF;
+    top:0;
+    background-color: black;
+    overflow-x: hidden;
+    padding-top: 30px;
+    overflow-y: hidden;
+}
+a {
+    color: #FFFFFF;
+    text-decoration: none;
+    padding: 10px 10px 10px;
+    float: right;
+}
+.active {
+    color: #FED557;
 }
 
+/* DIANA KULYK */
+h1 {
+    font-weight: 800;
+    font-size: 70px;
+    text-align: center;
+    color: #FFFFFF;
+
+}
+/* FRONTEND DEVELOPER AND DESIGNER */
+h2 {   
+    font-weight: normal;
+    font-size: 30px;
+    text-align: center;
+    color: #FFFFFF;
+
+}
+/* I’M A MULTIDISCIPLINARY ARTIST */
+p{
+    letter-spacing: 0.165em;
+    font-size: 14px;
+    font-weight: normal;
+    text-align: center;
+    color: #FFFFFF;
+
+}
+html {
+    background-color: #000000
+}
+
+.material-icons.md-24 { font-size: 24px; }
